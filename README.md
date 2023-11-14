@@ -1,3 +1,3 @@
-<a href="e">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swiftzerr&layout=compact" />
-</a>
+High School Student and Software Developer for Cider Collective
+
+Open for hire
